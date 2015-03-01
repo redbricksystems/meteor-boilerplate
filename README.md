@@ -38,10 +38,10 @@ In order to run unit tests for client side, you must have Chrome installed on yo
 [Download Chrome](https://www.google.com/intl/en-US/chrome/browser/desktop/index.html)
 
 ####Running Project
-You’ll need to clone the following repo from github into your working space and cd into that folder (“meteor-TDD”). Now enter the following commands on your terminal screen and hit Enter.
+You’ll need to clone the following repo from github into your working space and cd into that folder (“meteor-boilerplate”). Now enter the following commands on your terminal screen and hit Enter.
 
     $ git clone https://github.com/redbricksystems/meteor-boilerplate.git
-    $ cd meteor-TDD
+    $ cd meteor-boilerplate
     $ meteor
 
 As you run the server, Meteor will launch your browser with a KARMA server running on it. Now open another tab in Chrome and enter the URL 'localhost:3000'. You should see the running app now.
