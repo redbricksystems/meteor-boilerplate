@@ -29,6 +29,7 @@ Currently Meteor supports only Ubuntu, so we’ll set everything up on a Ubuntu 
 
 ######Install Orion Scaffolding cmd tool for meteor
 We’ll use the Orion scaffolding cmd tool for creating views, layouts and routes. This will make your life a lot easier and will also speed up your development. For installation, run the following command on your terminal screen.
+
 `$ npm install -g orion-cli`
  
 ####Client-side Installation
@@ -39,7 +40,7 @@ In order to run unit tests for client side, you must have Chrome installed on yo
 ####Running Project
 You’ll need to clone the following repo from github into your working space and cd into that folder (“meteor-TDD”). Now enter the following commands on your terminal screen and hit Enter.
 
-    $ git clone https://github.com/hasanmehmood/meteor-TDD.git
+    $ git clone https://github.com/redbricksystems/meteor-boilerplate.git
     $ cd meteor-TDD
     $ meteor
 
